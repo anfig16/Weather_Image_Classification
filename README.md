@@ -1,5 +1,4 @@
 # Weather_Image_Classification
-# Multimedia Project
 - - - - - - - - - - - - - - - -
 Name: Andrea Figueroa
 
