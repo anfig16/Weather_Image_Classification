@@ -380,5 +380,5 @@ print(np.max(np.abs(predictions - predictions_lite)))
 
 ```
 
-###Conclusion
+### Conclusion
 Overall, this project creates a basic Kera model for image classification, training it with Kaggle dataset chosen above and testing it with a new image not used in its training/validation. The Kera model is then converted into the TensorFlow Lite format. 
